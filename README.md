@@ -1,8 +1,4 @@
 # EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
- ###  DATE: 08.03.2024
-###  NAME: EZHIL SREE J
-###  ROLL NO :212223230056
-###  DEPARTMENT:AIDS
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
